@@ -1,2 +1,3 @@
 # tallboicero
-Photo gallery for my brother.
+
+Photo gallery website for my brother's art.
